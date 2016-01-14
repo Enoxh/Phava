@@ -16,7 +16,7 @@ PHPModel JSModel PHPView HTMLView JSControl</p>
 
 <p>The End result is then combined with BootCake another mashup which combines the UserCake PHP member Site Framework 
 
-<p><a href ="http://usercake.com" target="_blank"></p>
+<p><a href ="http://usercake.com" target="_blank">USerCake Website</a></p>
 
 with Bootstrap 3 and AngularJS.</p>
 
