@@ -5,7 +5,7 @@
 <p>Phava is a mashup library.</p>
 <p>Uses PHP and MYSQLI as a database.</p>
 <p>Phava Utilizes a custom PHP class based on the MySQLi-CRUD-PHP-OOP Library created by rorystandley.</p>
-<p><a href ="https://github.com/rorystandley/MySQLi-CRUD-PHP-OOP.git" target="_blank"></p>
+<p><a href ="https://github.com/rorystandley/MySQLi-CRUD-PHP-OOP.git" target="_blank">MySQLi-CRUD-PHP-OOP.git</a></p>
 
 <p>This allows data queries to be built in PHP and MYSQLI and then converted to JSON arrays which can then be used by modern JavaScript Frameworks and Libraries.</p>
 
@@ -16,7 +16,7 @@ PHPModel JSModel PHPView HTMLView JSControl</p>
 
 <p>The End result is then combined with BootCake another mashup which combines the UserCake PHP member Site Framework 
 
-<p><a href ="http://usercake.com" target="_blank">USerCake Website</a></p>
+<p><a href ="http://usercake.com" target="_blank">UserCake Website</a></p>
 
 with Bootstrap 3 and AngularJS.</p>
 
